@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<time.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 #define Size 4
 #define Init 3
 void display(int a[Size][Size]){
